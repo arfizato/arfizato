@@ -7,7 +7,7 @@
 - [x] Manage To Not Lose My Shit
 - [ ] Prepare A Badass Portfolio
 - [ ] Work On Some Badass Projects
-
+<!-- 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -20,7 +20,7 @@
   "age": 25
 }
 ```
-> blockquote
+> blockquote -->
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
