@@ -1,9 +1,9 @@
-### Hi there 👋
-## I'm Arfizato 🤗
+# Hi there 👋
+### I'm Arfizato 🤗
 **I'm 20 years old, a computer science student with two jobs on the side**
 [I've Got a Little Resume I Prepare In Case You Want To Know More About Me](https://ibrahimd-cv.netlify.app)
 
-# I've Also Got some Goals I Want to Get Done, So What's Better Than To Share Them In Here🙄
+### I've Also Got some Goals I Want to Get Done, So What's Better Than To Share Them In Here🙄
 - [x] Manage To Not Lose My Shit
 - [ ] Prepare A Badass Portfolio
 - [ ] Work On Some Badass Projects
