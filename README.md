@@ -13,7 +13,7 @@
 | Header | Title |
 | Paragraph | Text |
 
-```
+```javascript
 {
   "firstName": "John",
   "lastName": "Smith",
