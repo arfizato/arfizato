@@ -8,6 +8,13 @@
 - [ ] Prepare A Badass Portfolio
 - [ ] Work On Some Badass Projects
 
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+term
+: definition
+
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
