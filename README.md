@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://ik.imagekit.io/arfizato/intro.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079"  />
+  <img height="300" src="https://ik.imagekit.io/arfizato/intro-long.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079" />
 </div>
 
 ###
