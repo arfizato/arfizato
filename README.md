@@ -120,17 +120,19 @@
 <h2 align="left">REPOSITORIES</h2>
 
 <a href="https://github.com/arfizato/moycalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/arfizato/Symfony-Dall-E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/arfizato/fraud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/arfizato/arfizato-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
+
+
 
 ###
 
