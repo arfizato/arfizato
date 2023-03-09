@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/ibrahimdoghri" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://arfizato.tn" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Arfizato.tn-teal?style=for-the-badge&logo=globe&logoColor=white" height="35" alt="Website arfizato.tn">
+  </a>
+
 </div>
 <br>
 
@@ -132,7 +136,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-
+<!-- &title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515 -->
 
 ###
 
