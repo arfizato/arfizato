@@ -29,9 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=arfizato" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=arfizato" height="150" alt="languages graph"  />
   
+  <details >
+  <summary>See More..</summary>
+
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arfizato&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   [![Arfizato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arfizato)](https://wakatime.com/@arfizato)
+
+  </details>
 </div>
 
 
