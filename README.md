@@ -113,4 +113,9 @@
 
 <img src="https://raw.githubusercontent.com/arfizato/arfizato/blob/output/snake.svg" alt="Snake animation" />
 
+
 ###
+
+<h2 align="left">REPOSITORIES</h2>
+
+![Snake Gif](https://github.com/arfizato/arfizato/blob/output/snake.svg)
