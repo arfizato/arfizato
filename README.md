@@ -9,6 +9,7 @@
 ###
 
 <p align="left">I am a university student sutyding Big Data & Data Analysis. I'm passionate about anything that involves programming, cycling, and climbing.</p>
+<br>
 
 ###
 
@@ -20,13 +21,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=arfizato" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=arfizato" height="150" alt="languages graph"  />
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arfizato&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  [![Arfizato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arfizato)](https://wakatime.com/@arfizato)
 </div>
+
 
 ###
 
@@ -106,6 +113,16 @@
 ###
 
 <h2 align="left">REPOSITORIES</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc)](https://github.com/arfizato/moycalc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E)](https://github.com/arfizato/Symfony-Dall-E)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud)](https://github.com/arfizato/fraud)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio)](https://github.com/arfizato/arfizato-portfolio)
+
+
 
 ###
 
