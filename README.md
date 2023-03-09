@@ -39,6 +39,9 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arfizato&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   [![Arfizato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arfizato)](https://wakatime.com/@arfizato)
+  
+  ![](https://github-profile-trophy.vercel.app/?username=arfizato&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 
   </details>
 </div>
