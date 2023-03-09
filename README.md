@@ -119,15 +119,18 @@
 
 <h2 align="left">REPOSITORIES</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc)](https://github.com/arfizato/moycalc)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E)](https://github.com/arfizato/Symfony-Dall-E)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud)](https://github.com/arfizato/fraud)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio)](https://github.com/arfizato/arfizato-portfolio)
-
-
+<a href="https://github.com/arfizato/moycalc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc" />
+</a>
+<a href="https://github.com/arfizato/Symfony-Dall-E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E" />
+</a>
+<a href="https://github.com/arfizato/fraud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud" />
+</a>
+<a href="https://github.com/arfizato/arfizato-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio" />
+</a>
 
 ###
 
