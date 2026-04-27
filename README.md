@@ -1,150 +1,67 @@
 <div align="center">
-  <img height="300" src="https://ik.imagekit.io/arfizato/intro-long.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079" />
+  <img height="300" src="https://ik.imagekit.io/arfizato/intro-long.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079" alt="intro" />
 </div>
 
-###
+<!-- <h1 align="center">Ibrahim Doghri</h1> -->
 
-<h2 align="left">ABOUT</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1500&pause=3000&color=14B8A6&center=true&vCenter=true&width=560&lines=Lead+Software+Engineer;Full-stack+%26+Applied+AI;TypeScript+%C2%B7+Python+%C2%B7+RAG+%C2%B7+OCR" alt="role" />
+</p>
 
-###
+<p align="center">
+  <a href="mailto:ibrahimdoghri.tn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ibrahimdoghri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arfizato.tn"><img src="https://img.shields.io/badge/arfizato.tn-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+</p>
 
-<p align="left">I am a university student sutyding Big Data & Data Analysis. I'm passionate about anything that involves programming, cycling, and climbing.</p>
-<br>
+---
 
-###
+### About
 
-<div align="center">
-  <a href="mailto:ibrahimdoghri.tn@gmail.com?subject = Feedback&body = Message" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahimdoghri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://arfizato.tn" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Arfizato.tn-teal?style=for-the-badge&logo=globe&logoColor=white" height="35" alt="Website arfizato.tn">
-  </a>
+I build product end-to-end &mdash; TypeScript on the surface, Python and applied AI underneath. Currently leading an engineering team shipping RAG, OCR, and the messy seam between product UX and ML.
 
-</div>
-<br>
+### Currently
 
-###
+- 🛠&nbsp; Leading engineering on a Next.js &middot; FastAPI &middot; Pinecone RAG product
+- 🧪&nbsp; Recent build: an AI payroll-document classifier in SvelteKit + Mistral OCR
+- 🌍&nbsp; Open to senior / lead full-stack &amp; applied-AI roles &middot; remote-first &middot; CET
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=arfizato" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=arfizato" height="150" alt="languages graph"  />
-  
-  <details >
-  <summary>See More..</summary>
+### Stack
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arfizato&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
-  [![Arfizato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arfizato)](https://wakatime.com/@arfizato)
-  
-  ![](https://github-profile-trophy.vercel.app/?username=arfizato&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<p>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
+### Selected work
 
-  </details>
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arfizato/count.svg?"  />
-</div>
-
-###
-
-<h2 align="left">SKILLS</h2>
-
-###
-
-<h3 align="left">Big Data & Data science</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" width="42" alt="neo4j logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="42" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" width="42" alt="rstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
-</div>
-
-###
-
-<h3 align="left">Development</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="30" width="42" alt="gatsby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="42" alt="svelte logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="42" alt="symfony logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" width="42" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
-</div>
-
-###
-
-<h2 align="left">REPOSITORIES</h2>
-
-<a href="https://github.com/arfizato/moycalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/arfizato/Symfony-Dall-E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=Symfony-Dall-E&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/arfizato/fraud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=fraud&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/arfizato/arfizato-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=arfizato-portfolio&title_color=ffffff&icon_color=14b8a6&text_color=9f9f9f&bg_color=0d1117&border_color=30363d" />
+</a>
+<a href="https://github.com/arfizato/moycalc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arfizato&repo=moycalc&title_color=ffffff&icon_color=14b8a6&text_color=9f9f9f&bg_color=0d1117&border_color=30363d" />
 </a>
 
-<!-- &title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515 -->
+> Most of my production work sits behind closed doors. For more, see [arfizato.tn](https://arfizato.tn).
 
-###
-
-<br clear="both">
-
-![Snake Gif](https://github.com/arfizato/arfizato/blob/output/snake.svg)
-###
-
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arfizato&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arfizato&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" height="160" />
+  </p>
+</details>
